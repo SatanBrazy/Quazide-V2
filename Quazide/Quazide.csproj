@@ -6,12 +6,12 @@
     <ProjectGuid>{B0D3D62F-5B70-4FB4-A92C-550A11044603}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Quazide</RootNamespace>
-    <AssemblyName>Quazide</AssemblyName>
+    <RootNamespace>Wizz</RootNamespace>
+    <AssemblyName>Wizz</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ApplicationManifest>app.manifest</ApplicationManifest>
-    <StartupObject>Quazide.Program</StartupObject>
+    <StartupObject>Wizz.Program</StartupObject>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
