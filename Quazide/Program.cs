@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Quazide
+namespace Brazy
 {
 	// Token: 0x02000004 RID: 4
 	internal class Program
@@ -9,7 +9,7 @@ namespace Quazide
 		// Token: 0x0600001C RID: 28 RVA: 0x00002864 File Offset: 0x00000A64
 		private static void Main(string[] args)
 		{
-			Console.Title = "GDK - By Brazy";
+			Console.Title = "Wizz - By Brazy make sure you sub skid";
 			Console.WriteLine("Loading config...");
 			Bot.Config = Config.Load();
 			Console.WriteLine("Config loaded successfully! logging into account...");
@@ -26,8 +26,8 @@ namespace Quazide
 			{
 				Console.Clear();
 				Console.WriteLine("Please specify an action");
-				Console.WriteLine("1 - Nuke all servers");
-				Console.WriteLine("2 - Nuke specific server");
+				Console.WriteLine("1 - Wizz all servers");
+				Console.WriteLine("2 - Wizz specific server");
 				Console.Write("Action: ");
 				int num = int.Parse(Console.ReadLine());
 				int num2 = num;
