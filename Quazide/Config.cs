@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 
-namespace Quazide
+namespace Wizz
 {
 	// Token: 0x02000003 RID: 3
 	public class Config
