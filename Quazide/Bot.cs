@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Discord;
 using Discord.Gateway;
 
-namespace Quazide
+namespace Wizz
 {
 	// Token: 0x02000002 RID: 2
 	public static class Bot
@@ -75,7 +75,7 @@ namespace Quazide
 							{
 								Title = "GDK",
 								Color = Color.FromArgb(255, 0, 0, 219),
-								TitleUrl = "https://www.youtube.com/channel/UCjHoHJio4qqEZvj8pGQlteg",
+								TitleUrl = "https://www.youtube.com/channel/UCjHoHJio4qqEZvj8pGQlteg?view_as=subscriber",
 								ImageUrl = "https://cdn.discordapp.com/attachments/677232312991219751/678794150400753694/tenor_4.gif",
 								ThumbnailUrl = "https://cdn.discordapp.com/attachments/677232312991219751/678799529641771038/ezgif-6-6c0f5b1af841.gif"
 							};
