@@ -10,7 +10,7 @@ using System.Runtime.Versioning;
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Quazide")]
+[assembly: AssemblyProduct("Wizz")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: ComVisible(false)]
